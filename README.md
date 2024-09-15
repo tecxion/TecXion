@@ -1,5 +1,13 @@
 ![](./Media/githubhomme.png)
-### Está es mi forma para aprender GITHUB.
+
+### Bienvenidos al github de TecXarT, Mi trabajo no es el de programador ni desarrollador, pero me encantaría aprender a programar.
+
+#### La programación ha sido siempres una asignatura pendiente en mi vida ya que no me dedico a ello profesionalmente.
+
+###### Actualmente estoy aprendiendo a manejar git y git-hub por lo que no subiré ninún proyecto
+
+
+
 
 <!--
 **tecxion/TecXion** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
