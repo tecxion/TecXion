@@ -4,6 +4,8 @@
 
 #### La programación ha sido siempres una asignatura pendiente en mi vida ya que no me dedico a ello profesionalmente.
 
+### NO OLVIDES VISITAR MI WEB, Pulsando [AQUÍ](https://www.tecxart.es) 
+
 ###### Actualmente estoy aprendiendo a manejar git y git-hub por lo que no subiré ninún proyecto
 
 
