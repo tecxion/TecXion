@@ -6,10 +6,9 @@
 
 ### NO OLVIDES VISITAR MI WEB, Pulsando [AQUI](https://www.tecxart.es)
 
-#### Actualmente estoy aprendiendo a manejar git y git-hub por lo que no subiré ninún proyecto
 
  - Ahora mismo estoy creando un repositorio para los comandos de ORACLE SQL, puedes visitarlo y también aportar lo que quieras añadir.
-   ![imagen bd](/../Media_BD/COMANDOS.gif)
+   ![imagen bd](/../../Media_BD/COMANDOS.gif)
    [GITHUB Comandos Oracle](https://github.com/tecxion/Bases-de-datos-Oracle)
 
 
