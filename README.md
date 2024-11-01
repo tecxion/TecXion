@@ -1,6 +1,7 @@
 ![](./Media/githubhomme.png)
 
 ### Bienvenidos al github de TecXarT, Mi trabajo no es el de programador ni desarrollador, pero me encantaría aprender a programar.
+[PDF Ejemplos](/Comandos basicos Tarea2.pdf)
 
 #### La programación ha sido siempres una asignatura pendiente en mi vida ya que no me dedico a ello profesionalmente.
 
