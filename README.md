@@ -8,7 +8,11 @@
 
 
  - Ahora mismo estoy creando un repositorio para los comandos de ORACLE SQL, puedes visitarlo y también aportar lo que quieras añadir.
-   ![imagen bd](Media/COMANDOS.gif)
+
+   
+   ![imagen bd](Media/COMANDOS.gif) <br>
+
+
    [GITHUB Comandos Oracle](https://github.com/tecxion/Bases-de-datos-Oracle)
 
 
