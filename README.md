@@ -1,21 +1,5 @@
 ![](./Media/githubhomme.png)
 
-### Bienvenidos al github de TecXarT, Mi trabajo no es el de programador ni desarrollador, pero me encantaría aprender a programar.
-
-#### La programación ha sido siempres una asignatura pendiente en mi vida ya que no me dedico a ello profesionalmente.
-
->[!IMPORTANT]
-> ### NO OLVIDES VISITAR MI WEB, Pulsando [AQUI](https://www.tecxart.es)
-
-
- - Ahora mismo estoy creando un repositorio para los comandos de ORACLE SQL, puedes visitarlo y también aportar lo que quieras añadir.
-
-   
-   ![imagen bd](Media/COMANDOS.gif) <br>
-
-
-   [GITHUB Comandos Oracle](https://github.com/tecxion/Bases-de-datos-Oracle)
-
 
 # 💫 Sobre mi:
 - Estudiante de DAM<br>- Proyecto de desarrollador Frontend y Backend<br>- Diseñador gráfico<br><br>Pero mi trabajo no tiene que ver con la tecnología.
@@ -40,21 +24,19 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=tecxion&icon=0&color=4)](https://visitcount.itsvg.in)
 
-  ## 💰 You can help me by Donating
-  [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/jfmpkiko) 
 
-  
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) --><!--
-**tecxion/TecXion** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- Ahora mismo estoy creando un repositorio para los comandos de ORACLE SQL, puedes visitarlo y también aportar lo que quieras añadir.
 
-Here are some ideas to get you started:
+   
+![imagen bd](Media/COMANDOS.gif) <br>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+[GITHUB Comandos Oracle](https://github.com/tecxion/Bases-de-datos-Oracle)
+
+>[!IMPORTANT]
+> ### NO OLVIDES VISITAR MI WEB, Pulsando [AQUI](https://www.tecxart.es)
+
+
+## 💰 ¿Puedes ayudarme a crecer?
+[![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/jfmpkiko) 
+
