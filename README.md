@@ -37,6 +37,9 @@
 > ### NO OLVIDES VISITAR MI WEB, Pulsando [AQUI](https://www.tecxart.es)
 
 
+---------------------------
+
+
 ## Si eres estudiante de DAM/DAW en FpdRioja te invito a que hagas un fork del repositorio y subas tus actualizaciones.
 
 
