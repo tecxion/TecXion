@@ -54,5 +54,5 @@
 
 ## 💰 ¿Puedes ayudarme a crecer?
 [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/jfmpkiko) 
-[![Buymeacoffee](https://www.angeldecuir.com.mx/wp-content/uploads/2021/06/buymeacoffee.jpg)](https://coff.ee/tecxart)
+[![Buymeacoffee](https://codehim.com/wp-content/uploads/2022/09/bmc-button-640x180.png)](https://coff.ee/tecxart)
 
