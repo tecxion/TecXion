@@ -37,6 +37,13 @@
 > ### NO OLVIDES VISITAR MI WEB, Pulsando [AQUI](https://www.tecxart.es)
 
 
+## Si eres estudiante de DAM/DAW en FpdRioja te invito a que hagas un fork del repositorio y subas tus actualizaciones.
+![imagen damdaw](Media/Repositorio.png)
+![Repositorio DAM/DAW](https://github.com/tecxion/DAM_DAW)
+
+
+
+
 ## 💰 ¿Puedes ayudarme a crecer?
 [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/jfmpkiko) 
 
