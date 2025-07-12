@@ -28,10 +28,8 @@
 - Ahora mismo estoy creando un repositorio para los comandos de ORACLE SQL, puedes visitarlo y también aportar lo que quieras añadir.
 
    
-![imagen bd](Media/COMANDOS.gif) <br>
+[![imagen bd](Media/COMANDOS.gif)](https://github.com/tecxion/Bases-de-datos-Oracle) <br>
 
-
-[GITHUB Comandos Oracle](https://github.com/tecxion/Bases-de-datos-Oracle)
 
 >[!IMPORTANT]
 > ### NO OLVIDES VISITAR MI WEB, Pulsando [AQUI](https://www.tecxart.es)
