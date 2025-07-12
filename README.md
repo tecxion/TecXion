@@ -43,10 +43,7 @@
 ## Si eres estudiante de DAM/DAW en FpdRioja te invito a que hagas un fork del repositorio y subas tus actualizaciones.
 
 
-![imagen damdaw](Media/Repositorio.png)
-
-
-[Repositorio DAM/DAW](https://github.com/tecxion/DAM_DAW)
+[![imagen damdaw](Media/Repositorio.png)](https://github.com/tecxion/DAM_DAW)
 
 
 ---
