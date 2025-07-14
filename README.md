@@ -4,6 +4,8 @@
 # 💫 Sobre mi:
 - Estudiante de DAM<br>- Proyecto de desarrollador Frontend y Backend<br>- Diseñador gráfico<br><br>Pero mi trabajo no tiene que ver con la tecnología.
 
+![https://www.tecxart.es](./Media/TECXARTgif.gif)
+
 
 ## 🌐 Redes Sociales:
 [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@tx-dron-avistadedron) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:tecxart@gmail.com) 
