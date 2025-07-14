@@ -4,7 +4,7 @@
 # 💫 Sobre mi:
 - Estudiante de DAM<br>- Proyecto de desarrollador Frontend y Backend<br>- Diseñador gráfico<br><br>Pero mi trabajo no tiene que ver con la tecnología.
 
-![https://www.tecxart.es](./Media/TECXARTgif.gif)
+![https://www.tecxart.es](./Media/TECXARTgif2.gif)
 
 
 ## 🌐 Redes Sociales:
