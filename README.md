@@ -1,4 +1,6 @@
-![](./Media/githubhomme.png)
+<h1 align="center">
+<img src="https://github.com/tecxion/TecXion/blob/main/Media/githubhomme.png" width="150">
+</h1>
 
 
 # 💫 Sobre mi:
