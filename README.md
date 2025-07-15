@@ -35,10 +35,14 @@
 <h1 align="center"><img src="https://github-contributor-stats.vercel.app/api?username=tecxion&limit=6&theme=dark&combine_all_yearly_contributions=true"></h1>
 
 ---
+
+
 [![](https://visitcount.itsvg.in/api?id=tecxion&icon=0&color=4)](https://visitcount.itsvg.in)
 
 
 - Ahora mismo estoy creando un repositorio para los comandos de ORACLE SQL, puedes visitarlo y también aportar lo que quieras añadir.
+
+<h1 align="center"><a href="https://github.com/tecxion/Bases-de-datos-Oracle"><img src="https://github.com/tecxion/TecXion/blob/main/Media/COMANDOS.gif"></a></h1>
 
    
 [![imagen bd](Media/COMANDOS.gif)](https://github.com/tecxion/Bases-de-datos-Oracle) <br>
