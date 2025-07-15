@@ -20,6 +20,8 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=tecxion&theme=onedark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ## 🏆 GitHub Trophies
+<h1><img src=https://github-profile-trophy.vercel.app/?username=tecxion&theme=dracula&no-frame=true&no-bg=true&margin-w=15></h1>
+
 ![](https://github-profile-trophy.vercel.app/?username=tecxion&theme=dracula&no-frame=true&no-bg=true&margin-w=4)
 
 ### 🔝 Top Contributed Repo
