@@ -44,8 +44,6 @@
 
 <h1 align="center"><a href="https://github.com/tecxion/Bases-de-datos-Oracle"><img src="https://github.com/tecxion/TecXion/blob/main/Media/COMANDOS.gif"></a></h1>
 
-   
-[![imagen bd](Media/COMANDOS.gif)](https://github.com/tecxion/Bases-de-datos-Oracle) <br>
 
 
 >[!IMPORTANT]
@@ -57,14 +55,21 @@
 
 ## Si eres estudiante de DAM/DAW en FpdRioja te invito a que hagas un fork del repositorio y subas tus actualizaciones.
 
+<h1 align="center"><a href="https://github.com/tecxion/Bases-de-datos-Oracle"><img src="https://github.com/tecxion/TecXion/blob/main/Media/Repositorio.pngf"></a></h1>
 
-[![imagen damdaw](Media/Repositorio.png)](https://github.com/tecxion/DAM_DAW)
 
 
 ---
 
 
 ## 💰 ¿Puedes ayudarme a crecer?
+
+<h1 align="center">
+   <a href="https://paypal.me/jfmpkiko">
+<img src="https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white" alt="Paypal" />  </a><a href="https://coff.ee/tecxart"><img src="https://github.com/tecxion/TecXion/blob/main/Media/cafe1.png" alt="Cafe">
+</a>
+</h1>
+
 [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/jfmpkiko) 
 [![Buymeacoffee](Media/cafe1.png)](https://coff.ee/tecxart)
 
