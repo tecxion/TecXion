@@ -4,7 +4,10 @@
 
 
 # 💫 Sobre mi:
-- Estudiante de DAM<br>- Proyecto de desarrollador Frontend y Backend<br>- Diseñador gráfico<br><br>Pero mi trabajo no tiene que ver con la tecnología.
+- Estudiante de DAM<br>- Proyecto de desarrollador Frontend y Backend<br>- Diseñador gráfico<br>
+
+>[!NOTE]
+>Pero mi trabajo no tiene que ver con la tecnología, la verdad que no tienen nada que ver, aprendo a programar por hobby.
 
 <h1 align="center">
 <img src="https://github.com/tecxion/TecXion/blob/main/Media/TECXARTgif2.gif">
