@@ -1,5 +1,5 @@
 <h1 align="center">
-<img src="https://github.com/tecxion/TecXion/blob/main/Media/githubhomme.png" width="150">
+<img src="https://github.com/tecxion/TecXion/blob/main/Media/githubhomme.png">
 </h1>
 
 
@@ -7,7 +7,7 @@
 - Estudiante de DAM<br>- Proyecto de desarrollador Frontend y Backend<br>- Diseñador gráfico<br><br>Pero mi trabajo no tiene que ver con la tecnología.
 
 <h1 align="center">
-<img src="https://github.com/tecxion/TecXion/blob/main/Media/TECXARTgif2.gif" width="150">
+<img src="https://github.com/tecxion/TecXion/blob/main/Media/TECXARTgif2.gif">
 </h1>
 
 
