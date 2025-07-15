@@ -55,7 +55,7 @@
 
 ## Si eres estudiante de DAM/DAW en FpdRioja te invito a que hagas un fork del repositorio y subas tus actualizaciones.
 
-<h1 align="center"><a href="https://github.com/tecxion/Bases-de-datos-Oracle"><img src="https://github.com/tecxion/TecXion/blob/main/Media/Repositorio.pngf"></a></h1>
+<h1 align="center"><a href="https://github.com/tecxion/Bases-de-datos-Oracle"><img src="https://github.com/tecxion/TecXion/blob/main/Media/Repositorio.png"></a></h1>
 
 
 
