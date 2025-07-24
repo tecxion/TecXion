@@ -20,8 +20,7 @@
    
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=plastic&logo=c%2B%2B&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=plastic&logo=csharp&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=plastic&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=plastic&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=ffdd54) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=plastice&logo=php&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=plastic&logo=firebase) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=plastic=apache&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=plastic&logo=figma&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=plastic&logo=Canva&logoColor=white) ![Flutter](https://img.shields.io/badge/-%20Flutter%20-%20%2302569B?style=plastic&logo=flutter&logoSize=auto) ![Arduino](https://img.shields.io/badge/-%20Arduino%20-%20%2300878F?style=plastic&logo=arduino&logoSize=auto) ![Youtube](https://img.shields.io/badge/-%20YouTube%20-%20%23FF0000?style=social&logo=youtube&logoSize=auto)
 
-
-
+</h3>
 
 
 # 📊 GitHub Stats:
@@ -30,7 +29,6 @@
 ![](https://nirzak-streak-stats.vercel.app/?user=tecxion&theme=onedark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=tecxion&theme=onedark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-</h3>
 
 ## 🏆 GitHub Trophies
 <h1 align="center"><img src=https://github-profile-trophy.vercel.app/?username=tecxion&theme=dracula&no-frame=true&no-bg=true&margin-w=15></h1>
@@ -39,7 +37,6 @@
 <h1 align="center"><img src="https://github-contributor-stats.vercel.app/api?username=tecxion&limit=6&theme=dark&combine_all_yearly_contributions=true"></h1>
 
 ---
-
 
 [![](https://visitcount.itsvg.in/api?id=tecxion&icon=0&color=4)](https://visitcount.itsvg.in)
 
