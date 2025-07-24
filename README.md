@@ -23,15 +23,14 @@
 
 
 
-</h3>
-
-<br>
 
 # 📊 GitHub Stats:
 
 ![](https://github-readme-stats.vercel.app/api?username=tecxion&theme=onedark&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=tecxion&theme=onedark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=tecxion&theme=onedark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
+</h3>
 
 ## 🏆 GitHub Trophies
 <h1 align="center"><img src=https://github-profile-trophy.vercel.app/?username=tecxion&theme=dracula&no-frame=true&no-bg=true&margin-w=15></h1>
