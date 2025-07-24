@@ -16,15 +16,16 @@
 
 ## 🌐 Redes Sociales:
 <h1 align="center">
-   <a href="mailto:tecxart@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white" alt="email"> 
+   <a href="mailto:tecxart@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white" alt="email">    </a>
    <br>
-     <img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white" alt="" /> </a>
    <br>
 </h1>
 
    ## 📹 Canales de Youtube:
+   <h3 align="center">
+<img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white" alt="" />
 <br>
-<h3 align="center">
+<br>
  Canal A VISTA DE DRON: 
 <br>
    <img alt="YouTube Channel Views" src="https://img.shields.io/youtube/channel/views/UCr-3cqijQN-KcVbP1OS7u-g">  <img alt="YouTube Channel Subscribers" src="https://img.shields.io/youtube/channel/subscribers/UCr-3cqijQN-KcVbP1OS7u-g">
