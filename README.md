@@ -16,13 +16,17 @@
 
 ## 🌐 Redes Sociales:
 <h1 align="center">
-   <a href="https://youtube.com/@tx-dron-avistadedron">
-<img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white" alt="" />  </a><a href="mailto:tecxart@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white" alt="email"> 
+   <a href="mailto:tecxart@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white" alt="email"> 
    <br>
+     <img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white" alt="" /> Canales de Youtube:
+
    <h3 align="center">
-      Puedes visitar mi canal de youtube, MAKING HISTORY para seguir ayudándome a crecer:
+      Canal A VISTA DE DRON: 
       <br>
-   <img alt="GitHub User's stars" src="https://img.shields.io/github/stars/tecxion">
+      <img alt="YouTube Channel Subscribers" src="https://img.shields.io/youtube/channel/subscribers/UCr-3cqijQN-KcVbP1OS7u-g"> <img alt="YouTube Channel Views" src="https://img.shields.io/youtube/channel/views/UCr-3cqijQN-KcVbP1OS7u-g"> 
+<br>
+Canal MAKING HISTORY
+      <br>
 <img alt="YouTube Channel Views" src="https://img.shields.io/youtube/channel/views/UC5qDIL9s7G1n7SG22JshzAQ">
 <img alt="YouTube Channel Subscribers" src="https://img.shields.io/youtube/channel/subscribers/UC5qDIL9s7G1n7SG22JshzAQ"><br>
       <a href="https://www.youtube.com/channel/UC5qDIL9s7G1n7SG22JshzAQ">Visitar Canal</a>
@@ -75,7 +79,8 @@
 
 <h1 align="center">
    <a href="https://paypal.me/jfmpkiko">
-<img src="https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white" alt="Paypal" />  </a><a href="https://coff.ee/tecxart"><img src="https://github.com/tecxion/TecXion/blob/main/Media/cafe1.png" alt="Cafe">
+<img src="https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white" alt="Paypal" />  </a><a href="https://coff.ee/tecxart"><img src="https://github.com/tecxion/TecXion/blob/main/Media/cafe1.png" alt="Cafe">   <img alt="GitHub watchers" src="https://img.shields.io/github/watchers/tecxion/tecxion">    <img alt="GitHub User's stars" src="https://img.shields.io/github/stars/tecxion">
+
 </a>
 </h1>
 
