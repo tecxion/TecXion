@@ -19,11 +19,12 @@
    <a href="https://youtube.com/@tx-dron-avistadedron">
 <img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white" alt="" />  </a><a href="mailto:tecxart@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white" alt="email"> 
    <br>
-   <h3>
+   <h3 align="center">
       Puedes visitar mi canal de youtube, MAKING HISTORY para seguir ayudándome a crecer:
+      <br>
    <img alt="GitHub User's stars" src="https://img.shields.io/github/stars/tecxion">
 <img alt="YouTube Channel Views" src="https://img.shields.io/youtube/channel/views/UC5qDIL9s7G1n7SG22JshzAQ">
-<img alt="YouTube Channel Subscribers" src="https://img.shields.io/youtube/channel/subscribers/UC5qDIL9s7G1n7SG22JshzAQ">
+<img alt="YouTube Channel Subscribers" src="https://img.shields.io/youtube/channel/subscribers/UC5qDIL9s7G1n7SG22JshzAQ"><br>
       <a href="https://www.youtube.com/channel/UC5qDIL9s7G1n7SG22JshzAQ">Visitar Canal</a>
    </h3>
 </a>
