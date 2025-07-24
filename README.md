@@ -23,7 +23,8 @@
    <h3 align="center">
       Canal A VISTA DE DRON: 
       <br>
-      <img alt="YouTube Channel Subscribers" src="https://img.shields.io/youtube/channel/subscribers/UCr-3cqijQN-KcVbP1OS7u-g"> <img alt="YouTube Channel Views" src="https://img.shields.io/youtube/channel/views/UCr-3cqijQN-KcVbP1OS7u-g"> 
+      <img alt="YouTube Channel Views" src="https://img.shields.io/youtube/channel/views/UCr-3cqijQN-KcVbP1OS7u-g">  <img alt="YouTube Channel Subscribers" src="https://img.shields.io/youtube/channel/subscribers/UCr-3cqijQN-KcVbP1OS7u-g">  <br>
+      <a href="https://www.youtube.com/channel/UCr-3cqijQN-KcVbP1OS7u-g">Visitar Canal</a>
 <br>
 Canal MAKING HISTORY
       <br>
