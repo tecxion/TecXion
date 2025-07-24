@@ -14,31 +14,6 @@
 </h1>
 
 
-## 🌐 Redes Sociales:
-<h1 align="center">
-   <a href="mailto:tecxart@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white" alt="email">    </a>
-   <br>
-   <br>
-</h1>
-
-   ## 📹 Canales de Youtube:
-   <h3 align="center">
-<img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white" alt="" />
-<br>
-<br>
- Canal A VISTA DE DRON: 
-<br>
-   <img alt="YouTube Channel Views" src="https://img.shields.io/youtube/channel/views/UCr-3cqijQN-KcVbP1OS7u-g">  <img alt="YouTube Channel Subscribers" src="https://img.shields.io/youtube/channel/subscribers/UCr-3cqijQN-KcVbP1OS7u-g">
-      <a href="https://www.youtube.com/channel/UCr-3cqijQN-KcVbP1OS7u-g">Visitar Canal</a>
-<br>
-Canal MAKING HISTORY
-<br>
-<img alt="YouTube Channel Views" src="https://img.shields.io/youtube/channel/views/UC5qDIL9s7G1n7SG22JshzAQ">
-<img alt="YouTube Channel Subscribers" src="https://img.shields.io/youtube/channel/subscribers/UC5qDIL9s7G1n7SG22JshzAQ">
-      <a href="https://www.youtube.com/channel/UC5qDIL9s7G1n7SG22JshzAQ">Visitar Canal</a>
-</h3>
-
-
 # 💻 Tech Stack:
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
 # 📊 GitHub Stats:
@@ -78,6 +53,32 @@ Canal MAKING HISTORY
 
 
 ---
+
+## 🌐 Contacta por correo:
+<h1 align="center">
+   <a href="mailto:tecxart@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white" alt="email">    </a>
+   <br>
+   <br>
+</h1>
+
+   ## 📹 Canales de Youtube:
+   <h3 align="center">
+<img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white" alt="" />
+<br>
+<br>
+ Canal A VISTA DE DRON: 
+<br>
+   <img alt="YouTube Channel Views" src="https://img.shields.io/youtube/channel/views/UCr-3cqijQN-KcVbP1OS7u-g">  <img alt="YouTube Channel Subscribers" src="https://img.shields.io/youtube/channel/subscribers/UCr-3cqijQN-KcVbP1OS7u-g">
+      <a href="https://www.youtube.com/channel/UCr-3cqijQN-KcVbP1OS7u-g">Visitar Canal</a>
+<br>
+Canal MAKING HISTORY
+<br>
+<img alt="YouTube Channel Views" src="https://img.shields.io/youtube/channel/views/UC5qDIL9s7G1n7SG22JshzAQ">
+<img alt="YouTube Channel Subscribers" src="https://img.shields.io/youtube/channel/subscribers/UC5qDIL9s7G1n7SG22JshzAQ">
+      <a href="https://www.youtube.com/channel/UC5qDIL9s7G1n7SG22JshzAQ">Visitar Canal</a>
+</h3>
+
+
 
 
 ## 💰 ¿Puedes ayudarme a crecer?
