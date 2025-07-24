@@ -39,10 +39,6 @@
 
 
 
->[!IMPORTANT]
-> ### NO OLVIDES VISITAR MI WEB, Pulsando [AQUI](https://www.tecxart.es)
-
-
 ---
 
 
@@ -78,6 +74,8 @@ Canal MAKING HISTORY
       <a href="https://www.youtube.com/channel/UC5qDIL9s7G1n7SG22JshzAQ">Visitar Canal</a>
 </h3>
 
+>[!WARNING]
+> ### NO OLVIDES VISITAR MI WEB, Pulsando [AQUI](https://www.tecxart.es)
 
 
 
