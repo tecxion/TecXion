@@ -10,7 +10,10 @@
 >Pero mi trabajo no tiene que ver con la tecnología, la verdad que no tienen nada que ver, aprendo a programar por hobby.
 
 <h1 align="center">
-<img src="https://github.com/tecxion/TecXion/blob/main/Media/TECXARTgif2.gif">
+   <img src="https://github.com/tecxion/TecXion/blob/main/Media/TECXARTgif2.gif"><br>
+   <br>
+   <img alt="Static Badge" src="https://img.shields.io/badge/Kiko_mag-Visitar-black?style=plastic&logo=x&logoColor=white&logoSize=auto">
+
 </h1>
 
 
