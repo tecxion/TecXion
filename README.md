@@ -12,7 +12,8 @@
 <h1 align="center">
    <img src="https://github.com/tecxion/TecXion/blob/main/Media/TECXARTgif2.gif"><br>
    <br>
-   <img alt="Static Badge" src="https://img.shields.io/badge/Kiko_mag-Visitar-black?style=plastic&logo=x&logoColor=white&logoSize=auto">
+   <a href="https://x.com/kiko_mag">
+   <img alt="Static Badge" src="https://img.shields.io/badge/Kiko_mag-Visitar-black?style=plastic&logo=x&logoColor=white&logoSize=auto"></a>
 
 </h1>
 
