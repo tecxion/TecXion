@@ -38,8 +38,8 @@
 
 
 ## 🏆 GitHub Trophies
+<h1 align="center"><img src="https://github-trophies.vercel.app/?username=tecxion"></h1>
 ![](https://github-trophies.vercel.app/?username=tecxion)
-<h1 align="center"><img src=https://github-profile-trophy.vercel.app/?username=tecxion&theme=dracula&no-frame=true&no-bg=true&margin-w=15></h1>
 
 ### 🔝 Top Contributed Repo
 <h1 align="center"><img src="https://github-contributor-stats.vercel.app/api?username=tecxion&limit=6&theme=dark&combine_all_yearly_contributions=true"></h1>
