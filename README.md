@@ -4,10 +4,12 @@
 
 
 # 💫 Sobre mi:
-- Estudiante de DAM<br>- Proyecto de desarrollador Frontend y Backend<br>- Diseñador gráfico<br>
+- Estudiante de DAM<br>- Desarrollador Frontend y Backend<br>- Diseñador gráfico y 3D<br>
+>[!NOTE]
+>Si tienes un proyecto en mente solo ponte en contacto conmigo en tecxart@gmail.com o info@tecxart.es
 
 >[!NOTE]
->Pero mi trabajo no tiene que ver con la tecnología, la verdad que no tienen nada que ver, aprendo a programar por hobby.
+>Aunque mi trabajo actual no tiene que ver con la tecnología o en parte, aprendo a programar por hobby y cuando haces algo por hobby o diversión sacas lo mejor de ti.
 
 <h1 align="center">
    <img src="https://github.com/tecxion/TecXion/blob/main/Media/TECXARTgif2.gif"><br>
