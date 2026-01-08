@@ -5,7 +5,7 @@
 
 # 💫 Sobre mi:
 - Estudiante de DAM<br>- Desarrollador Frontend y Backend<br>- Diseñador gráfico y 3D<br>
->[!NOTE]
+>[!WARNING]
 >Si tienes un proyecto en mente solo ponte en contacto conmigo en tecxart@gmail.com o info@tecxart.es
 
 >[!NOTE]
