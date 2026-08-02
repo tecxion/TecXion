@@ -1,105 +1,175 @@
 <h1 align="center">
-<img src="https://github.com/tecxion/TecXion/blob/main/Media/githubhomme.png">
+  <img src="Media/githubhomme.png" alt="Header Banner" width="100%">
 </h1>
 
-
-# 💫 Sobre mi:
-- Estudiante de DAM<br>- Desarrollador Frontend y Backend<br>- Diseñador gráfico y 3D<br>
->[!WARNING]
->Si tienes un proyecto en mente solo ponte en contacto conmigo en tecxart@gmail.com o info@tecxart.es
-
->[!NOTE]
->Aunque mi trabajo actual no tiene que ver con la tecnología o en parte, aprendo a programar por hobby y cuando haces algo por hobby o diversión sacas lo mejor de ti.
-
-<h1 align="center">
-   <img src="https://github.com/tecxion/TecXion/blob/main/Media/TECXARTgif2.gif"><br>
-   <br>
-   <a href="https://x.com/kiko_mag">
-   <img alt="Static Badge" src="https://img.shields.io/badge/Kiko_mag-Visitar-black?style=plastic&logo=x&logoColor=white&logoSize=auto"></a>
-
-</h1>
-
-
-# 💻 Tech Stack:
-
-<h3 align="center"> 
-   
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=plastic&logo=c%2B%2B&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=plastic&logo=csharp&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=plastic&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=plastic&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=ffdd54) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=plastice&logo=php&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=plastic&logo=firebase) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=plastic=apache&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=plastic&logo=figma&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=plastic&logo=Canva&logoColor=white) ![Flutter](https://img.shields.io/badge/-%20Flutter%20-%20%2302569B?style=plastic&logo=flutter&logoSize=auto) ![Arduino](https://img.shields.io/badge/-%20Arduino%20-%20%2300878F?style=plastic&logo=arduino&logoSize=auto) ![html](https://img.shields.io/badge/html-brightgreen) ![Youtube](https://img.shields.io/badge/-%20YouTube%20-%20%23FF0000?style=social&logo=youtube&logoSize=auto)
-)
-
-</h3>
-
-
-# 📊 GitHub Stats:
-
-![](https://github-readme-stats.vercel.app/api?username=tecxion&theme=onedark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=tecxion&theme=onedark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=tecxion&theme=onedark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
-
-## 🏆 GitHub Trophies
-<h1 align="center"><img src="https://github-trophies.vercel.app/?username=tecxion"></h1>
-
-### 🔝 Top Contributed Repo
-<h1 align="center"><img src="https://github-contributor-stats.vercel.app/api?username=tecxion&limit=6&theme=dark&combine_all_yearly_contributions=true"></h1>
+<p align="center">
+  <a href="https://www.tecxart.es"><b>🌐 Visita mi sitio web tecxart.es</b></a> •
+  <a href="mailto:info@tecxart.es"><b>📧 Contáctame por Email</b></a> •
+  <a href="https://x.com/kiko_mag"><b>🐦 Sígueme en X (Twitter)</b></a>
+</p>
 
 ---
 
-[![](https://visitcount.itsvg.in/api?id=tecxion&icon=0&color=4)](https://visitcount.itsvg.in)
+### 💫 Sobre mí
 
+¡Hola! 👋 Soy estudiante de **Desarrollo de Aplicaciones Multiplataforma (DAM)**, desarrollador Frontend y Backend, y apasionado del diseño gráfico y modelado 3D. 
 
-- Ahora mismo estoy creando un repositorio para aprender Python, pero puedes visitar el resto de mis repositorios y hacer un fork.
+> [!NOTE]
+> Aunque mi día a día actual no está completamente vinculado a la tecnología, aprendo y programo por hobby. Creo firmemente que cuando haces algo por diversión y pasión, es cuando realmente consigues dar lo mejor de ti y crear soluciones únicas.
 
-<h1 align="center"><a href="https://github.com/tecxion/Curso-Python"><img src="https://github.com/tecxion/TecXion/blob/main/Media/cursopython.png"></a></h1>
-
-
-
----
-
-
-## Si eres estudiante de DAM/DAW en FpdRioja te invito a que hagas un fork del repositorio y subas tus actualizaciones.
-
-<h1 align="center"><a href="https://github.com/tecxion/Bases-de-datos-Oracle"><img src="https://github.com/tecxion/TecXion/blob/main/Media/Repositorio.png"></a></h1>
-
-
+> [!IMPORTANT]
+> **¿Tienes un proyecto o idea en mente?**
+> Estoy abierto a colaboraciones y nuevos retos. Escríbeme sin compromiso a [tecxart@gmail.com](mailto:tecxart@gmail.com) o a [info@tecxart.es](mailto:info@tecxart.es).
 
 ---
 
-## 🌐 Contacta por correo:
-<h1 align="center">
-   <a href="mailto:tecxart@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white" alt="email">    </a>
-   <br>
-   <br>
-</h1>
+### 💻 Tech Stack & Herramientas
 
-   ## 📹 Canales de Youtube:
-   <h3 align="center">
-<img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white" alt="" />
+<p align="center">
+  <!-- Programación -->
+  <img src="https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++">
+  <img src="https://img.shields.io/badge/C%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white" alt="C#">
+  <img src="https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java">
+  <img src="https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="JS">
+  <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python">
+  <img src="https://img.shields.io/badge/PHP-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white" alt="PHP">
+  <img src="https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
+  <br>
+  <!-- Frameworks & Bases de Datos -->
+  <img src="https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter">
+  <img src="https://img.shields.io/badge/Arduino-%2300878F.svg?style=for-the-badge&logo=arduino&logoColor=white" alt="Arduino">
+  <img src="https://img.shields.io/badge/Firebase-%23039BE5.svg?style=for-the-badge&logo=firebase&logoColor=white" alt="Firebase">
+  <img src="https://img.shields.io/badge/Apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white" alt="Apache">
+  <br>
+  <!-- Diseño & Media -->
+  <img src="https://img.shields.io/badge/Figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" alt="Figma">
+  <img src="https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=canva&logoColor=white" alt="Canva">
+  <img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube">
+</p>
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=tecxion&theme=onedark&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats" height="180px">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tecxion&theme=onedark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" height="180px">
+</p>
+
+<p align="center">
+  <img src="https://nirzak-streak-stats.vercel.app/?user=tecxion&theme=onedark&hide_border=false" alt="Streak Stats" width="60%">
+</p>
+
+#### 🏆 GitHub Trophies
+<p align="center">
+  <img src="https://github-trophies.vercel.app/?username=tecxion&theme=onedark" alt="Trophies">
+</p>
+
+---
+
+### 🚀 Proyectos Destacados
+
+A continuación puedes ver algunos de mis repositorios clave. ¡Te invito a explorarlos, hacer un fork o dejar una estrella! ⭐
+
+<table align="center" width="100%">
+  <tr>
+    <td width="50%" align="center" valign="top">
+      <h4>🐍 Curso de Python</h4>
+      <p>Un espacio dedicado a aprender, practicar y dominar Python desde cero.</p>
+      <a href="https://github.com/tecxion/Curso-Python">
+        <img src="Media/cursopython.png" alt="Curso Python" width="85%" style="border-radius: 8px;">
+      </a>
+      <br><br>
+      <a href="https://github.com/tecxion/Curso-Python"><b>Ver Repositorio ➔</b></a>
+    </td>
+    <td width="50%" align="center" valign="top">
+      <h4>💾 Bases de Datos Oracle</h4>
+      <p>Recursos, ejercicios y apuntes para estudiantes de DAM/DAW en FpdRioja.</p>
+      <a href="https://github.com/tecxion/Bases-de-datos-Oracle">
+        <img src="Media/Repositorio.png" alt="Oracle DB Repo" width="85%" style="border-radius: 8px;">
+      </a>
+      <br><br>
+      <a href="https://github.com/tecxion/Bases-de-datos-Oracle"><b>Ver Repositorio ➔</b></a>
+    </td>
+  </tr>
+</table>
+
 <br>
-<br>
- Canal A VISTA DE DRON: 
-<br>
-   <img alt="YouTube Channel Views" src="https://img.shields.io/youtube/channel/views/UCr-3cqijQN-KcVbP1OS7u-g">  <img alt="YouTube Channel Subscribers" src="https://img.shields.io/youtube/channel/subscribers/UCr-3cqijQN-KcVbP1OS7u-g">
-      <a href="https://www.youtube.com/channel/UCr-3cqijQN-KcVbP1OS7u-g">Visitar Canal</a>
-<br>
-Canal MAKING HISTORY
-<br>
-<img alt="YouTube Channel Views" src="https://img.shields.io/youtube/channel/views/UC5qDIL9s7G1n7SG22JshzAQ">
-<img alt="YouTube Channel Subscribers" src="https://img.shields.io/youtube/channel/subscribers/UC5qDIL9s7G1n7SG22JshzAQ">
-      <a href="https://www.youtube.com/channel/UC5qDIL9s7G1n7SG22JshzAQ">Visitar Canal</a>
-</h3>
 
->[!WARNING]
-> ### NO OLVIDES VISITAR MI WEB, Pulsando [AQUI](https://www.tecxart.es)
+<table align="center" width="100%">
+  <tr>
+    <td align="center" valign="middle" width="35%">
+      <img src="Media/tecxpanelLogo.png" alt="Tecxpanel Logo" width="80px">
+      <h4>🎛️ Tecxpanel</h4>
+      <p>Un panel de control personalizado y dinámico para la optimización de flujos de trabajo.</p>
+      <a href="https://github.com/tecxion/tecxpanel"><b>Ver Repositorio ➔</b></a>
+    </td>
+    <td align="center" valign="middle" width="65%">
+      <img src="Media/tecxpanel1.png" alt="Tecxpanel Capture 1" width="47%" style="border-radius: 8px; margin: 3px;">
+      <img src="Media/tecxpanel2.png" alt="Tecxpanel Capture 2" width="47%" style="border-radius: 8px; margin: 3px;">
+    </td>
+  </tr>
+</table>
 
+---
 
+### 📹 Canales de YouTube & Comunidad
 
-## 💰 ¿Puedes ayudarme a crecer?
+Además de la programación, me apasiona la divulgación y la creación de contenido audiovisual. Te invito a pasarte por mis canales:
 
-<h1 align="center">
-   <a href="https://paypal.me/jfmpkiko">
-<img src="https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white" alt="Paypal" />  </a><a href="https://coff.ee/tecxart"><img src="https://github.com/tecxion/TecXion/blob/main/Media/cafe1.png" alt="Cafe">   <img alt="GitHub watchers" src="https://img.shields.io/github/watchers/tecxion/tecxion">    <img alt="GitHub User's stars" src="https://img.shields.io/github/stars/tecxion">
+<table align="center" width="100%">
+  <tr>
+    <th align="center">Canal</th>
+    <th align="center">Audiencia</th>
+    <th align="center">Visualizaciones</th>
+    <th align="center">Acceso</th>
+  </tr>
+  <tr>
+    <td align="center"><b>🛸 A Vista de Dron</b></td>
+    <td align="center">
+      <img alt="Subscribers" src="https://img.shields.io/youtube/channel/subscribers/UCr-3cqijQN-KcVbP1OS7u-g?style=flat-square">
+    </td>
+    <td align="center">
+      <img alt="Views" src="https://img.shields.io/youtube/channel/views/UCr-3cqijQN-KcVbP1OS7u-g?style=flat-square">
+    </td>
+    <td align="center">
+      <a href="https://www.youtube.com/channel/UCr-3cqijQN-KcVbP1OS7u-g"><b>Ir al canal ➔</b></a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center"><b>📜 Making History</b></td>
+    <td align="center">
+      <img alt="Subscribers" src="https://img.shields.io/youtube/channel/subscribers/UC5qDIL9s7G1n7SG22JshzAQ?style=flat-square">
+    </td>
+    <td align="center">
+      <img alt="Views" src="https://img.shields.io/youtube/channel/views/UC5qDIL9s7G1n7SG22JshzAQ?style=flat-square">
+    </td>
+    <td align="center">
+      <a href="https://www.youtube.com/channel/UC5qDIL9s7G1n7SG22JshzAQ"><b>Ir al canal ➔</b></a>
+    </td>
+  </tr>
+</table>
 
-</a>
-</h1>
+---
 
+### 💰 ¿Quieres apoyar mi trabajo?
+
+Si te gusta lo que hago y quieres ayudarme a seguir creciendo y creando contenido:
+
+<p align="center">
+  <a href="https://paypal.me/jfmpkiko">
+    <img src="https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white" alt="Paypal">
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://coff.ee/tecxart">
+    <img src="Media/cafe1.png" alt="Ko-fi" height="40px">
+  </a>
+</p>
+
+<p align="center">
+  <img alt="GitHub watchers" src="https://img.shields.io/github/watchers/tecxion/tecxion?style=flat-square">
+  &nbsp;
+  <img alt="GitHub stars" src="https://img.shields.io/github/stars/tecxion?style=flat-square">
+  &nbsp;
+  <img alt="Visitas" src="https://visitcount.itsvg.in/api?id=tecxion&icon=0&color=4">
+</p>
