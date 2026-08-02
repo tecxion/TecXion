@@ -72,6 +72,27 @@
 
 A continuación puedes ver algunos de mis repositorios clave. ¡Te invito a explorarlos, hacer un fork o dejar una estrella! ⭐
 
+#### 🎛️ Tecxpanel
+
+Tecxpanel es un panel de control personalizado y dinámico para la optimización de VPS, es un proyecto que me ha llevado bastantes horas espero que os guste, es un relevo gratuito para CPanel, Plesk, u otros paneles de VPS, segúramente contenga errores y se pueda mejorar pero por eso necesito que lo compartais y me deis vuestra opinion.
+
+<table align="center" width="100%">
+  <tr>
+    <td align="center" valign="middle" width="35%">
+      <img src="Media/tecxpanelLogo.png" alt="Tecxpanel Logo" width="80px">
+      <h4>🎛️ Tecxpanel</h4>
+      <p>Un panel de control personalizado y dinámico para la optimización de flujos de trabajo.</p>
+      <a href="https://github.com/tecxion/tecxpanel"><b>Ver Repositorio ➔</b></a>
+    </td>
+    <td align="center" valign="middle" width="65%">
+      <img src="Media/tecxpanel1.png" alt="Tecxpanel Capture 1" width="47%" style="border-radius: 8px; margin: 3px;">
+      <img src="Media/tecxpanel2.png" alt="Tecxpanel Capture 2" width="47%" style="border-radius: 8px; margin: 3px;">
+    </td>
+  </tr>
+</table>
+
+<br>
+
 <table align="center" width="100%">
   <tr>
     <td width="50%" align="center" valign="top">
@@ -106,23 +127,6 @@ A continuación puedes ver algunos de mis repositorios clave. ¡Te invito a expl
     <td>
 </table>
   >
-
-<br>
-
-<table align="center" width="100%">
-  <tr>
-    <td align="center" valign="middle" width="35%">
-      <img src="Media/tecxpanelLogo.png" alt="Tecxpanel Logo" width="80px">
-      <h4>🎛️ Tecxpanel</h4>
-      <p>Un panel de control personalizado y dinámico para la optimización de flujos de trabajo.</p>
-      <a href="https://github.com/tecxion/tecxpanel"><b>Ver Repositorio ➔</b></a>
-    </td>
-    <td align="center" valign="middle" width="65%">
-      <img src="Media/tecxpanel1.png" alt="Tecxpanel Capture 1" width="47%" style="border-radius: 8px; margin: 3px;">
-      <img src="Media/tecxpanel2.png" alt="Tecxpanel Capture 2" width="47%" style="border-radius: 8px; margin: 3px;">
-    </td>
-  </tr>
-</table>
 
 ---
 
