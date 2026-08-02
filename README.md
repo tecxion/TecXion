@@ -86,14 +86,22 @@ A continuación puedes ver algunos de mis repositorios clave. ¡Te invito a expl
     <td width="50%" align="center" valign="top">
       <h4>💾 Bases de Datos Oracle</h4>
       <p>Recursos, ejercicios y apuntes para estudiantes de DAM/DAW en FpdRioja.</p>
-      <a href="https://github.com/tecxion/Bases-de-datos-Oracle">
-        <img src="Media/Repositorio.png" alt="Oracle DB Repo" width="85%" style="border-radius: 8px;">
-      </a>
       <br><br>
       <a href="https://github.com/tecxion/Bases-de-datos-Oracle"><b>Ver Repositorio ➔</b></a>
     </td>
   </tr>
 </table>
+
+<table align="center" width="100%">
+  <tr>
+    <td with="50%" align="center" valign="top">
+      <h4>Este es el repositorio del curos de DAM/DAW de FPD Rioja, por si alguno estudiais ahí.</h4>
+         <a href="https://github.com/tecxion/Bases-de-datos-Oracle">
+        <img src="Media/Repositorio.png" alt="Oracle DB Repo" width="85%" style="border-radius: 8px;">
+      </a>
+    <td>
+</table>
+  >
 
 <br>
 
