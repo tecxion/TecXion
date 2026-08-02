@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="Media/githubhomme.png" alt="Header Banner" width="100%">
+  <img src="Media/logogithub.png" alt="Header Banner" width="100%">
 </h1>
 
 <p align="center">
@@ -12,7 +12,7 @@
 
 ### 💫 Sobre mí
 
-¡Hola! 👋 Soy estudiante de **Desarrollo de Aplicaciones Multiplataforma (DAM)**, desarrollador Frontend y Backend, y apasionado del diseño gráfico y modelado 3D. 
+¡Hola! 👋 Soy estudiante de **Desarrollo de Aplicaciones Multiplataforma (DAM)**, desarrollador Frontend y Backend, y apasionado del diseño gráfico y modelado 3D.
 
 > [!NOTE]
 > Aunque mi día a día actual no está completamente vinculado a la tecnología, aprendo y programo por hobby. Creo firmemente que cuando haces algo por diversión y pasión, es cuando realmente consigues dar lo mejor de ti y crear soluciones únicas.
@@ -57,10 +57,11 @@
 </p>
 
 <p align="center">
-  <img src="https://nirzak-streak-stats.vercel.app/?user=tecxion&theme=onedark&hide_border=false" alt="Streak Stats" width="60%">
+  <img src="https://streak-stats.demolab.com/?user=tecxion&theme=onedark&hide_border=false" alt="Streak Stats" width="60%">
 </p>
 
 #### 🏆 GitHub Trophies
+
 <p align="center">
   <img src="https://github-trophies.vercel.app/?username=tecxion&theme=onedark" alt="Trophies">
 </p>
