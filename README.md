@@ -80,8 +80,6 @@ Tecxpanel es un panel de control personalizado y dinámico para la optimización
   <tr>
     <td align="center" valign="middle" width="35%">
       <img src="Media/tecxpanelLogo.png" alt="Tecxpanel Logo" width="80px">
-      <h4>🎛️ Tecxpanel</h4>
-      <p>Un panel de control personalizado y dinámico para la optimización de flujos de trabajo.</p>
       <a href="https://github.com/tecxion/tecxpanel"><b>Ver Repositorio ➔</b></a>
     </td>
     <td align="center" valign="middle" width="65%">
