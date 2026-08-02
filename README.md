@@ -105,6 +105,9 @@ Tecxpanel es un panel de control personalizado y dinámico para la optimización
     <td width="50%" align="center" valign="top">
       <h4>💾 Bases de Datos Oracle</h4>
       <p>Recursos, ejercicios y apuntes para estudiantes de DAM/DAW en FpdRioja.</p>
+      <a href="https://github.com/tecxion/Bases-de-datos-Oracle">
+        <img src="https://github.com/tecxion/Bases-de-datos-Oracle/blob/main/Media_BD/COMANDOS.gif" alt="Oracle DB" width="85%" style="border-radius: 8px;">
+      </a>
       <br><br>
       <a href="https://github.com/tecxion/Bases-de-datos-Oracle"><b>Ver Repositorio ➔</b></a>
     </td>
