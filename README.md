@@ -103,16 +103,25 @@ Tecxpanel es un panel de control personalizado y dinámico para la optimización
       <a href="https://github.com/tecxion/Curso-Python"><b>Ver Repositorio ➔</b></a>
     </td>
     <td width="50%" align="center" valign="top">
-      <h4>💾 Bases de Datos Oracle</h4>
-      <p>Recursos, ejercicios y apuntes para estudiantes de DAM/DAW en FpdRioja.</p>
-      <a href="https://github.com/tecxion/Bases-de-datos-Oracle">
-        <img src="https://github.com/tecxion/Bases-de-datos-Oracle/blob/main/Media_BD/COMANDOS.gif" alt="Oracle DB" width="85%" style="border-radius: 8px;">
+      <h4>Centinela</h4>
+      <p>App para visualizar tus cámaras IP de casa</p>
+      <a href="https://github.com/tecxion/centinela">
+        <img src="https://github.com/tecxion/centinela/blob/feat/centinela/src/Centinela.Desktop/Assets/centinela.png" alt="Centinela" width="85%" style="border-radius: 8px;">
       </a>
       <br><br>
       <a href="https://github.com/tecxion/Bases-de-datos-Oracle"><b>Ver Repositorio ➔</b></a>
     </td>
+    <td with="50%" align="center" valign="top">
+      <h4>ProtecX - Controla el malware de tu PC</h4>
+      <p>Aplicación gratuita y de código abierto para controlar todo el malware que puede sacudir tu PC, Discos, redes, procesos...</p>
+      <br><br>
+         <a href="https://github.com/tecxion/ProtecX">
+        <img src="" alt="Oracle DB Repo" width="85%" style="border-radius: 8px;">
+      </a>
+      <br>
+      <a href="https://github.com/tecxion/ProtecX"><b>Ver Repositorio ➔</b></a>
+    <td>
   </tr>
-</table>
 
 <table align="center" width="100%">
   <tr>
@@ -164,6 +173,18 @@ Además de la programación, me apasiona la divulgación y la creación de conte
     </td>
     <td align="center">
       <a href="https://www.youtube.com/channel/UC5qDIL9s7G1n7SG22JshzAQ"><b>Ir al canal ➔</b></a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center"><b>Warm Vibe</b></td>
+    <td align="center">
+      <img alt="Subscribers" src="https://img.shields.io/youtube/channel/subscribers/UCSa2RA2mfYppdP8ouRSa3Vg?style=flat-square">
+    </td>
+    <td align="center">
+      <img alt="Views" src="https://img.shields.io/youtube/channel/views/UCSa2RA2mfYppdP8ouRSa3Vg?style=flat-square">
+    </td>
+    <td align="center">
+      <a href="https://www.youtube.com/channel/UCSa2RA2mfYppdP8ouRSa3Vg"><b>Ir al canal ➔</b></a>
     </td>
   </tr>
 </table>
