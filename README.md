@@ -124,21 +124,18 @@ Tecxpanel es un panel de control personalizado y dinámico para la optimización
       <a href="https://github.com/tecxion/ProtecX"><b>Ver Repositorio ➔</b></a>
     <td>
   </tr>
-
-<table align="center" width="100%">
   <tr>
     <td with="50%" align="center" valign="top">
       <h4>Este es el repositorio del curos de DAM/DAW de FPD Rioja, por si alguno estudiais ahí.</h4>
       <p>Esta realizado un fork desde el repositorio original, hay recursos como tareas o exámenes de otros años.</p
       <br><br>
          <a href="https://github.com/tecxion/DAM_DAW">
-        <img src="Media/Repositorio.png" alt="Oracle DB Repo" width="85%" style="border-radius: 8px;">
+        <img src="Media/Repositorio.png" alt="ProtecX" width="85%" style="border-radius: 8px;">
       </a>
       <br>
       <a href="https://github.com/tecxion/DAM_DAW"><b>Ver Repositorio ➔</b></a>
     <td>
 </table>
-  >
 
 ---
 
