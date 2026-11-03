@@ -126,7 +126,6 @@ Tecxpanel es un panel de control personalizado y dinámico para la optimización
   </tr>
 </table>
   <table>
-  <tr>
     <td with="50%" align="center" valign="top">
       <h4>Este es el repositorio del curos de DAM/DAW de FPD Rioja, por si alguno estudiais ahí.</h4>
       <p>Esta realizado un fork desde el repositorio original, hay recursos como tareas o exámenes de otros años.</p
