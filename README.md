@@ -109,7 +109,7 @@ Tecxpanel es un panel de control personalizado y dinámico para la optimización
         <img src="https://github.com/tecxion/centinela/blob/feat/centinela/src/Centinela.Desktop/Assets/centinela.png" alt="Centinela" width="85%" style="border-radius: 8px;">
       </a>
       <br><br>
-      <a href="https://github.com/tecxion/Bases-de-datos-Oracle"><b>Ver Repositorio ➔</b></a>
+      <a href="https://github.com/tecxion/Centinela"><b>Ver Repositorio ➔</b></a>
     </td>
   </tr>
   <tr>
@@ -118,12 +118,14 @@ Tecxpanel es un panel de control personalizado y dinámico para la optimización
       <p>Aplicación gratuita y de código abierto para controlar todo el malware que puede sacudir tu PC, Discos, redes, procesos...</p>
       <br><br>
          <a href="https://github.com/tecxion/ProtecX">
-        <img src="" alt="Oracle DB Repo" width="85%" style="border-radius: 8px;">
+        <img src="https://github.com/tecxion/ProtecX/blob/main/protecX.png" alt="" width="85%" style="border-radius: 8px;">
       </a>
       <br>
       <a href="https://github.com/tecxion/ProtecX"><b>Ver Repositorio ➔</b></a>
     <td>
   </tr>
+</table>
+  <table>
   <tr>
     <td with="50%" align="center" valign="top">
       <h4>Este es el repositorio del curos de DAM/DAW de FPD Rioja, por si alguno estudiais ahí.</h4>
