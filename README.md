@@ -122,7 +122,7 @@ Tecxpanel es un panel de control personalizado y dinámico para la optimización
       </a>
       <br>
       <a href="https://github.com/tecxion/ProtecX"><b>Ver Repositorio ➔</b></a>
-    <td>
+    </td>
   </tr>
 </table>
 <table>
